@@ -8,6 +8,6 @@ if (typeof x === "number") {
 } else if (typeof x === "boolean") {
     result = `${x} - логический тип`;
 } else {
-    result = `Тип ${x} не определён`
+    result = `Тип ${x} не определён`;
 }
-console.log(result)
+console.log(result);
