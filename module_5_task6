@@ -7,4 +7,4 @@ for (const e of arr) {
         break;
     }
 }
-console.log(isSame)
+console.log(isSame);
